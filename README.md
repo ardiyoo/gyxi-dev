@@ -55,7 +55,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Gyxi-Dev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gyxi-dev&show_icons=true&count_private=true&theme=algolia" height="160px"/></a>
+    <a href=""><img alt="Gyxi-Dev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gyxi-dev&show_icons=true&count_private=true&theme=algolia" height="160px"/></a>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gyxi-dev&show_icons=true&locale=en&layout=compact&theme=algolia" alt="gyxi-dev" height="160px"/>
   </p>
