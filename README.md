@@ -43,6 +43,9 @@
      <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
     <img alt=".NET" src="https://img.shields.io/badge/.NET-3776AB?style=for-the-badge&logo=dotnet&logoColor=white">
   </a>
+       <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-3776AB?style=for-the-badge&logo=php&logoColor=white">
+  </a>
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
