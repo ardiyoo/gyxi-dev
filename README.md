@@ -34,7 +34,9 @@
    <a href="https://getbootstrap.com/" target="_blank">
     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   </a>
-
+   <a href="https://jquery.com/" target="_blank">
+    <img alt="jQuery" src="https://img.shields.io/badge/jquery-%23563D7C.svg?style=for-the-badge&logo=jQuery&logoColor=white">
+  </a>
    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
   </a>
